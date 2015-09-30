@@ -16,14 +16,23 @@
 	-webkit-transform: translateZ(0);
 	-moz-transform: translateZ(0);
 	transform: translateZ(0);
+<<<<<<< HEAD
 	display: block;
 	float: left;
+=======
+	float: left;
+	display: block;
+>>>>>>> a14134ced349d5d35f6953813b34505c22416184
 	margin: 0;
 	padding: 0;
 }
 
 .cbp-fwslider ul li > a,
+<<<<<<< HEAD
 .cbp-fwslider ul li.sliderli > div { /*Cori added the .demo*/
+=======
+.cbp-fwslider ul li > div { /*Cori added the .demo*/
+>>>>>>> a14134ced349d5d35f6953813b34505c22416184
 	display: block;
 	text-align: center;
 	outline: none;
@@ -43,7 +52,11 @@ width: 10%;
 
 .cbp-fwslider nav span {
 	position: absolute;
+<<<<<<< HEAD
 	top: 40%;
+=======
+	top: 50%;
+>>>>>>> a14134ced349d5d35f6953813b34505c22416184
 	width: 50px;
 	height: 100px;
 	background: #F79A6F;
@@ -108,7 +121,13 @@ width: 10%;
 	margin: 0 auto;
 	width: 100%;
 }
+<<<<<<< HEAD
 
+=======
+.image{
+	width: 30%;
+}
+>>>>>>> a14134ced349d5d35f6953813b34505c22416184
 
 h3 {
 	color: #F79A6F;
@@ -137,6 +156,7 @@ display: none;
 }
 
 .text {
+<<<<<<< HEAD
 /*	text-align: center;  */
 	width: 50%;
 }
@@ -206,4 +226,8 @@ display: none; }
 
 .mobileonly > h2 {
 	font-size: 150%;
+=======
+	text-align: center;
+	width: 50%;
+>>>>>>> a14134ced349d5d35f6953813b34505c22416184
 }

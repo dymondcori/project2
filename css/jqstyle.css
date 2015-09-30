@@ -10,7 +10,11 @@ line-height: 1.4em;
 padding: 0;
 }
 .contenthover a.mybutton {
+<<<<<<< HEAD
 display: inline-block;
+=======
+display: block;
+>>>>>>> a14134ced349d5d35f6953813b34505c22416184
 float: left;
 padding: 5px 10px;
 background: #3c9632;

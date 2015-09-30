@@ -83,6 +83,7 @@ background-color: #F79A6F; ;
   width : 100%;
   overflow : auto;
 }
+<<<<<<< HEAD
 
 .quiz > li{
   display: block;
@@ -99,3 +100,5 @@ background-color: #F79A6F; ;
   clear: right;
 
 }
+=======
+>>>>>>> a14134ced349d5d35f6953813b34505c22416184
