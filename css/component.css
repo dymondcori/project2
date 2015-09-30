@@ -207,3 +207,8 @@ display: none; }
 .mobileonly > h2 {
 	font-size: 150%;
 }
+
+.longplay {
+	margin: 0 auto;
+	text-align: center;
+}
